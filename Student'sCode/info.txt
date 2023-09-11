@@ -1,1 +1,1 @@
-
+This folder holds each student's file of code.
